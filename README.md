@@ -1,5 +1,5 @@
 # Heyo!👋🏻
-### 🏷 Something about me
+### 📌 Something about me
 <img align="right" alt="Elefant9477" width="300" src="https://github.com/Elefant9477/Elefant9477/blob/main/cereal.gif" />
 
 💤 Laziest developer in the world.
@@ -8,9 +8,11 @@
 
 ❌🍵 Not a fan of tea.
 
-📜 Usually code in TypeScript, JavaScript, HTML and Python.
+🧮 Usually code in TypeScript, JavaScript, HTML and Python.
 
-⏱ Most annoying hacker (just take a look at the desktop then disconnect) (**FOR PARTICIPANTS ONLY**).
+📜 14+ other repositories are all **PRIVATE**.
+
+⌛️ Most annoying hacker (just take a look at the desktop then disconnect) (**FOR PARTICIPANTS ONLY**).
 
 📦 Coding files delivery service (**FOR PARTICIPANTS ONLY**).
 
@@ -19,7 +21,9 @@
 
 ### 💡Fun fact
 
-🍸 Got drunk after drinking cocktail while coding in my 19th birthday (I was saying the codes out loud like a psycho, no one was there but my mom...).
+🍸 Will get drunk after drinking cocktail.
+
+🗝 Lost the door key all the time. 
 
 
 ### 📊 Statistics
