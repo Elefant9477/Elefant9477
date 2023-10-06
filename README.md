@@ -23,7 +23,7 @@
 
 🍸 Will get drunk after drinking cocktail.
 
-🗝 Lose the door key all the time
+🗝 Lose the door key all the time.
 
 
 ### 📊 Statistics
