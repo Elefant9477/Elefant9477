@@ -19,12 +19,6 @@
 🪶"*Wenn du mein Profil ansehen, gewinne ich.*"
 
 
-### 💡Fun fact
-
-🍸 Will get drunk after drinking cocktail.
-
-🗝 Lose the door key all the time.
-
 
 ### 📊 Statistics
 [![Elefant's GitHub stats](https://github-readme-stats.vercel.app/api?username=elefant9477&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
