@@ -12,10 +12,6 @@
 
 📜 14+ other repositories are all **PRIVATE**.
 
-⌛️ Most annoying hacker (just take a look at the desktop then disconnect) (**FOR PARTICIPANTS ONLY**).
-
-📦 Coding files delivery service (**FOR PARTICIPANTS ONLY**).
-
 🪶"*Wenn du mein Profil ansehen, gewinne ich.*"
 
 
