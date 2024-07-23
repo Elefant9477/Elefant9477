@@ -2,15 +2,10 @@
 ### 📌 Something about me
 <img align="right" alt="Elefant9477" width="300" src="https://github.com/Elefant9477/Elefant9477/blob/main/cereal.gif" />
 
-💤 Laziest developer in the world.
 
 🍪 Somehow addicted with cookies.
 
-❌🍵 Not a fan of tea.
-
 🧮 Usually code in TypeScript, JavaScript, HTML and Python.
-
-📜 14+ other repositories are all **PRIVATE**.
 
 🪶"*Wenn du mein Profil ansehen, gewinne ich.*"
 
