@@ -3,7 +3,7 @@
 <img align="right" alt="Elefant9477" width="300" src="https://github.com/Elefant9477/Elefant9477/blob/main/cereal.gif" />
 
 
-🍪 Somehow addicted with cookies.
+🍪 I mostly pull requests in a specific period (Mid-Autumn to Mid/Late-Winter).
 
 🧮 Usually code in TypeScript, JavaScript, HTML and Python.
 
