@@ -3,7 +3,7 @@
 <img align="right" alt="Elefant9477" width="300" src="https://github.com/Elefant9477/Elefant9477/blob/main/cereal.gif" />
 
 
-🍪 I mostly post files as well as do contributions in a specific period (Mid-Autumn to Mid/Late-Winter).
+🍪 I mostly post codes in a specific period (Mid-Autumn to Mid/Late-Winter).
 
 🍳 Other months I live and cook in Codespaces.
 
