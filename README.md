@@ -9,8 +9,6 @@
 
 🧮 Usually code in TypeScript, JavaScript, HTML and Python.
 
-🪶"*Wenn du mein Profil ansehen, gewinne ich.*"
-
 
 
 
