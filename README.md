@@ -5,7 +5,7 @@
 
 🍪 I mostly post codes in a specific period (Mid-Autumn to Mid/Late-Winter).
 
-🍳 Other months I live and cook in Codespaces.
+🍳 Other months I cook in Codespaces.
 
 🧮 Usually code in TypeScript, JavaScript, HTML and Python.
 
