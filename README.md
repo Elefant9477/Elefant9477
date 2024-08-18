@@ -9,7 +9,7 @@
 
 🧮 Usually code in TypeScript, JavaScript, HTML and Python.
 
-🧀 I'm not a coder. I'm still on my way to be a full-stack developer so my repositories are all private.
+🧀 I'm not a coder. I'm still on my way to be a full-stack developer so my repositories are private.
 
 
 
