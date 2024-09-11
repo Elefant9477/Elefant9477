@@ -11,7 +11,7 @@
 
 🧀 I'm not a coder. I'm still on my way to be a full-stack developer so my repositories are private.
 
-🍞 Sorry I'm busy with my main job's deadlines so maybe at least I'll be back in the upcoming summer...
+🍞 Sorry I'm busy with my main job's deadlines so maybe at least I'll continue contributing in the upcoming summer...
 
 I'll be temporarily back at anytime I could in this long break. Really sorry folks.
 
